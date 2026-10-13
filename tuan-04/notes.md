@@ -27,7 +27,4 @@ E         - The Wrong Title
 E         + The Internet
 
 ## 3. Thành viên: [...]
-=======
-## 2. Thành viên: [Họ và tên 2]
-...
->>>>>>> a70c4b9b195db36d4f3354b27218520b6015a917
+
